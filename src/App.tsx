@@ -3,7 +3,7 @@ import './App.css'
 export default function App() {
   return (
     <main>
-      Reactive ⚛️ + Vite ⚡ + Replit 🌀
+      Reactive screen ⚛️ + Vite ⚡ + Replit 🌀
     </main>
   )
 }
